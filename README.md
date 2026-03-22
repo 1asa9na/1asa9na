@@ -1,4 +1,4 @@
-# hey, I'm ${username} 👋
+# hey, I'm Nikita Minyaylov 👋
 
 Java Backend Developer · building reliable things, one endpoint at a time
 
