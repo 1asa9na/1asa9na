@@ -40,13 +40,4 @@ Java Backend Developer · building reliable things, one endpoint at a time
 
 ---
 
-## github stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 <sub>Let's connect and build something cool.</sub>
